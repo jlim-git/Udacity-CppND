@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -std=c++17   CMakeFiles/RMS.dir/src/FOH.cpp.o CMakeFiles/RMS.dir/src/Menu.cpp.o CMakeFiles/RMS.dir/src/MenuItem.cpp.o CMakeFiles/RMS.dir/src/Table.cpp.o CMakeFiles/RMS.dir/src/main.cpp.o  -o RMS 

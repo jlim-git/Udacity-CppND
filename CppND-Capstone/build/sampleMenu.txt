@@ -1,0 +1,6 @@
+Fish Fingers, 10
+Salad, 5
+Grilled Chicken, 30
+Steamed Fish, 40
+Cake, 15
+Ice Cream, 8
